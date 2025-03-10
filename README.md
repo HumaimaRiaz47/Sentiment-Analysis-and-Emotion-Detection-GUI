@@ -55,6 +55,33 @@ The application features **user registration and login functionality** handled u
 - **User credentials** are stored securely using file handling.  
 - The system verifies login details before granting access to the main application.
 
+  ## Skills
+
+### 1. Programming & Development  
+- **Python**  
+- **Tkinter** (GUI Development)  
+- **Object-Oriented Programming (OOP)**  
+
+### 2. Natural Language Processing (NLP)  
+- **Sentiment Analysis**  
+- **Named Entity Recognition (NER)**  
+- **Emotion Detection**  
+- **VADER Sentiment Analysis**  
+- **spaCy**  
+- **NRCLex**  
+
+### 3. Software Development  
+- **GUI Design**  
+- **File Handling in Python**  
+- **Authentication & User Management**  
+- **Data Processing**  
+
+### 4. Tools & Technologies  
+- **PyCharm (IDE)**  
+- **Git & GitHub** (Version Control)  
+- **Markdown** (for README files)  
+
+
 ## ScreenShots
 
 ![Screenshot from 2025-03-10 15-48-39](https://github.com/user-attachments/assets/373023a9-742e-4c0c-bbe1-363ac9b165d6)
